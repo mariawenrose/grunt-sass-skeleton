@@ -11,7 +11,7 @@
   "dependencies": {
     "grunt": "^1.0.4",
     "grunt-contrib-watch": "^1.1.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "grunt-contrib-cssmin": "^3.0.0",
